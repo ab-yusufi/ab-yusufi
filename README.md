@@ -1,7 +1,7 @@
 <!-- 👋 Hi there -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>  
-  <strong>Hey there! I’m <a href="https://github.com/AbdurrahmanYusufi">Abdurrahman Yusufi</a> (<a href="https://www.youtube.com/@abcoder">AB Coder</a>) 👋</strong>
+  <strong>Hey there! I’m <a href="https://github.com/ab-yusufi">Abdurrahman Yusufi</a> (<a href="https://www.youtube.com/@abcoder">AB Coder</a>) 👋</strong>
 </p>
 
 <p align="center">
@@ -53,8 +53,8 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AbdurrahmanYusufi&show_icons=true&theme=radical" alt="Abdurrahman’s GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdurrahmanYusufi&layout=compact&theme=radical&hide=HTML,Shell" alt="Top languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ab-yusufi&show_icons=true&theme=radical" alt="Abdurrahman’s GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-yusufi&layout=compact&theme=radical&hide=HTML,Shell" alt="Top languages" />
 </p>
 
 ---
