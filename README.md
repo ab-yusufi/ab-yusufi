@@ -1,7 +1,7 @@
 <!-- 👋 Hi there -->
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>  
-  <strong>Hey there! I’m <a href="https://github.com/ab-yusufi">Abdurrahman Yusufi</a> (<a href="https://www.youtube.com/@abcoder">AB Coder</a>) 👋</strong>
+  <strong>Hey there! I’m <a href="https://abyusufi.com">Abdurrahman Yusufi</a> (<a href="https://www.youtube.com/@abcoder">AB Coder</a>) 👋</strong>
 </p>
 
 <p align="center">
